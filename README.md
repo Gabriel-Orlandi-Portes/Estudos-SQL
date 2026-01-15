@@ -38,9 +38,7 @@ Neste repositório, o Codewars é utilizado como **ferramenta complementar**, au
 
 ```
 📁 Estudos-SQL/
-│
-|── README.md  
-|
+│ 
 |── 📁Codewars/
 |      |── README.md
 |      |
@@ -50,14 +48,16 @@ Neste repositório, o Codewars é utilizado como **ferramenta complementar**, au
 |      |         └── Atividades.sql
 |      |── 📁6Kyu/
 |                └── Atividades.sql
+│                    
+|── 📁Projetos/
 |
-|── 📁SQLBolt/
+|──📁SQLBolt/
 |        ├── README.md
 |        |     
 │        ├── Atividades.sql
-|        └──
-│                    
-└── 📁Projetos/
+|
+|
+└── README.md  
 
 ```
 
