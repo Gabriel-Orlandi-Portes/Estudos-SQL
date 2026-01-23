@@ -16,4 +16,5 @@
 
 SELECT first_name, last_name
 from Name
-Where first_name like '______';
+
+Where first_name like '______%';
