@@ -14,6 +14,8 @@
 -- - name (string)
 -- - age (date)
 
-SELECT MIN(age), MAX(age) 
-FROM people;
+SELECT 
+  MIN(age) as age_min,
+  MAX(age) as age_max
+from people
 
